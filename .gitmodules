@@ -7,3 +7,6 @@
 [submodule "ranger"]
 	path = ranger
 	url = https://github.com/KrakenTheme/ranger
+[submodule "zsh"]
+	path = zsh
+	url = https://github.com/KrakenTheme/zsh
