@@ -1,3 +1,6 @@
 [submodule "xresources"]
 	path = xresources
 	url = https://github.com/KrakenTheme/xresources
+[submodule "iterm"]
+	path = iterm
+	url = https://github.com/KrakenTheme/iterm
