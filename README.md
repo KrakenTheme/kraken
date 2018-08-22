@@ -1,0 +1,2 @@
+# kraken
+Dark theme
