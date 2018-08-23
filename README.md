@@ -27,12 +27,8 @@ cyan light `14`    | `#18b3c4` | `24 179 196`  | 38
 white dark `7`     | `#595959` | `89 89 89`    | 240
 white light `15`   | `#c6c6c6` | `198 198 198` | 251
 
-
-
-
-
-
-
+## Additional
+Also look at [Rougarou](https://github.com/RougarouTheme/rougarou) theme.
 
 ## Credits
 Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [flaticon](www.flaticon.com) 
