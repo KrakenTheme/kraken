@@ -1,7 +1,7 @@
 # kraken
 Dark theme
 
-
+<p align="center"><img src ="https://user-images.githubusercontent.com/2269864/44552238-aa5aa400-a6f7-11e8-9ebb-82874903d16e.png" width="200" /></p>
 
 ## Color Palette
 
