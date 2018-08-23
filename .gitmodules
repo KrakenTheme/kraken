@@ -7,9 +7,9 @@
 [submodule "ranger"]
 	path = ranger
 	url = https://github.com/KrakenTheme/ranger
-[submodule "zsh"]
-	path = zsh
-	url = https://github.com/KrakenTheme/zsh
+[submodule "kraken-zsh"]
+	path = kraken-zsh
+	url = https://github.com/KrakenTheme/kraken-zsh
 [submodule "visual-studio-code"]
 	path = visual-studio-code
 	url = https://github.com/KrakenTheme/visual-studio-code
