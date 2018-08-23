@@ -10,3 +10,6 @@
 [submodule "zsh"]
 	path = zsh
 	url = https://github.com/KrakenTheme/zsh
+[submodule "visual-studio-code"]
+	path = visual-studio-code
+	url = https://github.com/KrakenTheme/visual-studio-code
