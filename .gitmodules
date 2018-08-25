@@ -13,3 +13,6 @@
 [submodule "visual-studio-code"]
 	path = visual-studio-code
 	url = https://github.com/KrakenTheme/visual-studio-code
+[submodule "konsole"]
+	path = konsole
+	url = https://github.com/KrakenTheme/konsole
